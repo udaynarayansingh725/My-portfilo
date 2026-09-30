@@ -34,8 +34,9 @@ I believe in "Learning in Public." Some of my featured certifications include:
 ## 📞 Contact
 Feel free to reach out to me for opportunities or collaborations!
 - **Email:** udaynarayansingh725@gmail.com
-- **LinkedIn:** [Uday Narayan Singh](https://www.linkedin.com/in/uday-narayan-singh-48ab44377)
+- **LinkedIn:** [Uday Narayan Singh](https://www.linkedin.com/in/uday-narayan-singh)
 - **GitHub:** [udaynarayansingh725](https://github.com/udaynarayansingh725)
 
 ---
 *© 2026 Uday Narayan Singh. Built with HTML, CSS, and JS.*
+
