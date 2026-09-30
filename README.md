@@ -2,7 +2,7 @@
 
 Welcome to the repository of my personal portfolio website! I am a BCA student, Backend Developer, and Data Analyst based in Noida, India. I'm passionate about turning real-world problems into simple, reliable, and useful software.
 
-**🌐 Live Preview:** (Add your live website URL here)
+**🌐 Live Preview:** [https://udaynarayansingh725.github.io/My-portfilo/](https://udaynarayansingh725.github.io/My-portfilo/)
 
 ## 👨‍💻 About Me
 I'm a 5th-semester BCA student at Chaudhary Charan Singh University. I enjoy working with Python, Java, databases, and backend technologies, while continually developing my skills in Data Analytics, Power BI, and GenAI.
